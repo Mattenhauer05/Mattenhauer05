@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de ADS<br>👯 Estou a procuro de Estágio<br>🌱 Estou estudando C# e DBA SQL Server<br>
+🔭 Sou estudante de ADS<br>👯 Estou a procuro de Estágio<br>🌱 Estou estudando C#, Python DBA SQL Server<br>
 
 
 ## 🌐 Socials:
